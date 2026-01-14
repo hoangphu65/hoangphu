@@ -6,7 +6,7 @@
     </style>
   </head>
   <body>
-    THỜI KHOÁ BIỂU
+    <h1> THỜI KHOÁ BIỂU </ht>
     <table border="1" width="100%">
       <tr>
         <th> Tiết</th>
